@@ -1,0 +1,10 @@
+.square {
+    margin: 50px auto;
+    height: 10vh;
+    width: 10vh;
+  }
+
+  .square img{
+      width:150px;
+      height:150px;
+  }

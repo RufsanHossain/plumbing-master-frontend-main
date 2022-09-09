@@ -1,0 +1,119 @@
+.plumbo-footer-contact-us {
+    background-color: #dfe4ea;
+    padding: 50px 0;
+    border-bottom: 2px solid #212e3c;
+}
+.plumbo-footer-contact-us .info-sec i {
+    color: #ffc400;
+    font-size: 25px;
+    border: 1px solid #576573;
+    padding: 15px
+}
+
+.plumbo-footer-contact-us .info-sec p {
+    color: #898f96;
+    font-weight: 500;
+    margin-bottom: 2px;
+    font-size: 16px;
+    font-family: "Roboto";
+    line-height: 21px;
+}
+.plumbo-footer-contact-us .info-sec p:last-child,
+.plumbo-footer-contact-us .info-sec p:last-child a{
+    color:#747d8c;
+}
+.plumbo-footer-contact-us .content{
+    margin-top: 5px;
+}
+.change-row{
+    margin-left: 90px;
+}
+.meta{
+    margin-bottom: 0;
+}
+/*  */
+
+
+.plumbo-footer-section{
+    background: #212e3c;
+}
+.plumbo-footer-section .footer-section{
+    padding: 80px 0px;
+}
+.plumbo-footer-section p{
+  font-size: 16px;
+  font-family: "Roboto";
+  color: #90979e;
+}
+.plumbo-footer-section ul.footer-social li {
+    float: left;
+    margin-right: 25px;
+}
+.plumbo-footer-section ul.footer-social li a{
+  color: #90979e;
+}
+.footer-title .heading{
+  font-size: 20px;
+  margin-bottom: 60px;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.logo-design-footer {
+    width: 95px;
+    height: auto;
+    margin-top: 60px;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul li a{
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+/* tiny footer */
+.tiny-footer {
+    background: #ffc400;
+    padding: 20px;
+    text-align: center;
+}
+
+.tiny-footer p {
+    font-size: 16px;
+    font-family: "Roboto";
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+}
+.tiny-footer a {
+    color: #212e3c;
+    font-weight: 500;
+}
+.roww-design{
+    margin:0 !important;
+}
+.footerdown-design{
+    background-color:#dfe4ea ;
+}
+
+
+
+
+
+
+
+
+
+.footer-ico-size{
+    width: 45px !important;
+    height: auto !important;
+}
+.footerdown-ico-size{
+    width: 45px ;
+    height: auto ;
+    background-color: #ffc400;
+}

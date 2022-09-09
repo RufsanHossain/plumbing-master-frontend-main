@@ -1,0 +1,10 @@
+.bg-design{
+    background-color: #f5f7ff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bg-design h2{
+    color: #fcc000;
+    font-size: 65px;
+    margin-bottom: 30px;
+}

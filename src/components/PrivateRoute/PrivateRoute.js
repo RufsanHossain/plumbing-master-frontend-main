@@ -1,0 +1,31 @@
+import React, { useContext } from 'react';
+import { Redirect, Route } from 'react-router';
+import { UserContext } from '../../App';
+
+const PrivateRoute = ({children , ...rest}) => {
+    //const [loggedInUser, setLoggedInUser] = useContext(UserContext);
+    const { value, value2 } = React.useContext(UserContext);
+    const [loggedInUser, setLoggedInUser] = value;
+    const [buyService, setbuyService] = value2;
+    return (
+        <div>
+            <Route
+        {...rest}
+        render={({ location }) =>
+          loggedInUser.email || sessionStorage.getItem("token") ? (
+            children
+          ) : (
+            <Redirect
+              to={{
+                pathname: "/login",
+                state: { from: location }
+              }}
+            />
+          )
+        }
+      />
+        </div>
+    );
+};
+
+export default PrivateRoute;

@@ -1,0 +1,13 @@
+.person{
+    width: 40px;
+    height: auto;
+}
+.card-design{
+    border: 2px solid #FFC000;
+    padding: 15px;
+    max-width: 45%;
+    margin-left: 25px;
+    margin-bottom: 23px;
+    /* background-color: #FFC400;
+    color: white; */
+}

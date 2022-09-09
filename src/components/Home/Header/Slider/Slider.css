@@ -1,0 +1,17 @@
+.img-size{
+    height: auto;
+}
+.container-fluid{
+    padding-left:0;
+    padding-right:0;
+}
+.carouselheader{
+    font-size: 40px;
+    color: white;
+    font-weight: 500;
+}
+.carouseltext{
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+}

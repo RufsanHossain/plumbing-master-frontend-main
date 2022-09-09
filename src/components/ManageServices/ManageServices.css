@@ -1,0 +1,18 @@
+.Row-design{
+    background-color: #2d3e50 ;
+    color: white;
+}
+.div-design h1{
+    font-size: 65px;
+    margin-top: 25px;
+}
+.service-ebtn-design{
+    background-color: #f01d1d;
+    font-weight: 600;
+    color: white;
+    border: none !important ;
+    border-radius: 5px;
+}
+.table{
+    border: 2px solid #2d3e50;
+}

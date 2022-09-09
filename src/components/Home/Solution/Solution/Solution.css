@@ -1,0 +1,32 @@
+.worker-image img{
+    width: 350px;
+}
+.solution-icon{
+    width: 70px;
+    color: #fff;
+    background-color: #dfe4ea;
+    font-size: 30px;
+    padding: 15px;
+    text-align: center;
+}
+.solution-icon-left{
+    width: 70px;
+    color: #fff;
+    background-color: #dfe4ea;
+    font-size: 30px;
+    padding: 15px;
+    text-align: center;
+}
+.solution-icon:hover{
+    background-color: #ffc400;
+    border: none;
+}
+.solution-icon-left:hover{
+    background-color: #ffc400;
+    border: none;
+}
+.solutionheading h1{
+    font-size: 50px;
+    color: #ffc400;
+    font-weight: 500;
+}

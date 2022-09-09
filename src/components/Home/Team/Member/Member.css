@@ -1,0 +1,7 @@
+.member-card{
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    margin-bottom: 100px;
+    height:auto;
+    background-color: #FCC000;
+    color: white;
+}

@@ -1,0 +1,55 @@
+.logo{
+    font-size: 27px;
+    font-weight: 700;
+    text-decoration: none !important;
+    color: black;
+    margin-top: 6px ;
+}
+.logo-design{
+    width: 95px;
+    height: auto;
+}
+.header-design h4{
+    font-size: 23px;
+    font-weight: 500;
+    margin-top: 12px;
+    margin-bottom: 0;
+}
+.icon-design {
+    width: 45px;
+    height: auto;
+    padding: 0;
+}
+.Navbar-design{
+    background-color: #FFC400;
+    padding: 0;
+    padding-right: 10px;
+}
+.item-design{
+    color: white !important;
+    font-size:20px;
+    font-weight: 500;
+    padding: 13px;
+}
+.item-design:hover{
+    background-color: #2D3E50;
+}
+.search-design{
+    background-color:#2D3E50;
+}
+.btn-design{
+    background-color: white;
+    color: black;
+    border: none;
+}
+.btn-design:hover{
+    background-color: black;
+    color: white;
+}
+.contact-design{
+    text-decoration: none!important;
+    color: black;
+}
+.navbar{
+    z-index: 999999;
+}

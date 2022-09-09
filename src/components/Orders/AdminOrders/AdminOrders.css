@@ -1,0 +1,19 @@
+.Row-design{
+    background-color: #2d3e50 ;
+    color: white;
+}
+.div-design h1{
+    font-size: 65px;
+    margin-top: 25px;
+}
+.table{
+    border: 2px solid #2d3e50;
+}
+.service-btn-design{
+    background-color: #53ce23;
+    font-weight: 600;
+    color: white;
+    border: none !important ;
+    border-radius: 5px;
+    margin-left: 20px;
+}

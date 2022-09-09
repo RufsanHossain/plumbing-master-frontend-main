@@ -1,0 +1,14 @@
+.property{
+    padding: 50px 40px;
+    border: 1px solid #ebebeb;
+    border-bottom: 4px solid #ededeb;
+    margin-bottom: 30px;
+}
+.property:hover {
+    background-color: #ffc400;
+    border: 1px solid #ffc400;
+    border-bottom: 4px solid #ffc400;
+    color: #fff;
+    transform: rotate(360deg);
+    transition: 1.4s;
+}

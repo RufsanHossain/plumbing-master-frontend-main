@@ -1,0 +1,18 @@
+.checkout-style{
+    max-width: 500px;
+    height: auto;
+    padding:35px;
+    color: white;
+    background-color: #2d3e50;
+    border: 5px solid #fcc000;
+    text-align: center;
+}
+.checkout-style p{
+    font-size: 25px;
+
+}
+.checkout-style button{
+    border:none;
+    padding: 10px 20px;
+    background-color: #fcc000;
+}
